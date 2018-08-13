@@ -4,7 +4,7 @@ import json
 import copy
 import os
 padding = 10
-folder_name = r"croped\\"
+folder_name = r"cropeds"
 
 
 def check_if_coordinate_in_crop(x1, y1, x2, y2, coordinates):
