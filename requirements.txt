@@ -1,0 +1,8 @@
+pandas
+opencv-python
+numpy
+keras
+keras_metrics
+opencv-contrib-python
+json
+imutils
